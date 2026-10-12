@@ -1,0 +1,6 @@
+{
+  "name": "SauberClean - Lavado de Tapicería a Domicilio en Santiago",
+  "description": "Lavado de sofás, alfombras, colchones e interiores de autos a domicilio en Santiago. Más de 7 años de experiencia y productos ecológicos. Cotiza por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
